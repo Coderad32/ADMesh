@@ -1,10 +1,17 @@
 ## Welcome
 
-Thanks for taking the time to read. 
+Thanks for taking the time to read about the prototype work
+developed by myself. 
 
-> TLDR just a small project creating value.
+> TLDR just a small project creating value adding a way to charge system
+using exterior panelling and micro connectors, node module interface
+software update for software service patch route connect :select: mode
+> TLDR a smaller module for learning some skill or trick inside a computer.
 
-#### Written by: Cody-p2p
+## Written by: Cody-p2p
+
+<br>
+<hr>
 <br>
 
 ## Ad Mesh Innovations
@@ -45,7 +52,7 @@ The following research has been conducted:
 
 MIT 2025 Creative Commons + Creative Share Alike
 
-use at own risk. Software is as IS.
+use at own risk. Software.
 
     [use] at owners risk.
     [promote] free open source.
