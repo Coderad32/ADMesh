@@ -8,6 +8,11 @@ using exterior panelling and micro connectors, node module interface
 software update for software service patch route connect :select: mode
 > TLDR a smaller module for learning some skill or trick inside a computer.
 
+
+>TLDR A micro framework for building homes in a community network sharing service
+
+
+
 ## Written by: Cody-p2p
 
 <br>
